@@ -1,0 +1,240 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+header{
+	width: 100vw;
+	height:auto;
+	background:white;
+}
+
+
+.logo {
+	/*border: 2px solid black;*/
+	height: 12vh;
+	width: auto;
+	display: inline-block;
+	overflow: hidden;
+	font-size: 30px;
+	padding-top: 3vh;
+}
+
+.tt {
+	color: orange;
+}
+.tarc{
+	color: purple;
+}
+
+nav{
+	/*border:2px solid black;
+*/	width: auto;
+	height: : auto;
+	font-size: 25px;
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 15vw;
+	padding-top:6px;
+	padding: 10PX;
+	margin-bottom: 2vh;
+	background:;
+}
+
+
+ul{
+	display: inline-block;
+	overflow: hidden;
+	margin-top: 5vh;
+}
+
+.qrcode{
+	display: inline-block;
+	overflow: hidden;
+	height:7vh;
+	width: 10vw;
+	color: white;
+	cursor: pointer;
+	align-self: center; 
+	background:green;
+	border-radius: 10px 10px 10px 10px;
+}
+
+ul li{
+	display: inline-block;
+	margin-left: 3vw;
+	margin-bottom: 1vh;
+
+}
+
+
+li a{
+	font-size: 20px;
+	text-decoration: none;
+	color: solid-black;
+	padding: 10PX;
+
+}
+
+.sign{
+	padding: 10px;
+	font-size: 25px;
+	/*border:2px solid black;*/
+	background: purple;
+	border-radius:95px;
+	width: 10vw;
+	height: 6vh;
+	margin-bottom: 5.5vh;
+	display: inline-block;
+	overflow: hidden;
+
+}
+.sign button{
+	margin-left: 3vw;
+	padding: 8px;
+	padding-bottom: 2px;
+}
+
+.search{
+	/*border:2px solid black;*/
+	width: 14vw;
+	height: : 10vh;
+	padding: 10px;
+	margin-bottom: 6vh;
+	background: purple;
+	border-radius: 95px;
+	display: inline-block;
+	overflow: hidden;
+}
+.search button{
+	display: inline-block;
+	overflow: hidden;
+	background: white;
+
+}
+
+.src{
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 6vw;
+}
+
+.container{
+	height: auto;
+	width: auto;
+	background:#D9EEE1;
+	border-top-style: ridge;
+
+}
+
+
+
+.acontainer{
+	height: auto;
+	width: auto;
+	display: inline-block;
+	overflow: hidden;
+	margin-left:vw;
+	margin-top: 15vh;
+	background:#D9EEE1;
+	border-top-style: ridge;
+
+}
+
+/*.acontainer input{
+	height: 5vh;
+	width: 15vw;
+}
+*/
+
+.bcontainer{
+	height: auto;
+	width: auto;
+	display: inline-block;
+	overflow: hidden;
+	margin-left:vw;
+	margin-bottom: 15vh;
+	background:#D9EEE1;
+	border-top-style: ridge;
+
+}
+
+
+.dash{
+	text-rendering: 
+}
+
+
+.bcontainer button{
+display: inline-block;
+overflow: hidden;
+height:20vh;
+width: 20vw;
+margin-left: 2vw; 
+background:;
+border-radius: 10px 10px 10px 10px;
+
+}
+
+
+
+.ccontainer{
+	height: auto;
+	width: auto;
+	background: #D9EEE1;
+	margin-left:14vw;
+	background:white;
+	border-top-style: ridge;
+
+
+}
+
+
+.submit button{
+display: inline-block;
+overflow: hidden;
+height:10vh;
+width: 15vw;
+margin-left: 38vw;
+align-self: center; 
+background:purple;
+border-radius: 10px 10px 10px 10px;
+
+}
+
+
+
+/*.ccontainer button{
+display: inline-block;
+overflow: hidden;
+height:20vh;
+width: 15vw;
+margin-left: 2vw; 
+background:pink	;
+border-radius: 10px 10px 10px 10px;
+
+}*/
+
+
+/*.house{
+background:pink;
+display: inline-block;
+overflow: hidden;
+height:8vh;
+width:15vw,
+margin-left:5vw;
+
+
+
+}
+
+.shopoffice{
+background:pink;
+display: inline-block;
+overflow: hidden;
+height:8vh;
+width:15vw,
+margin-left:5vw;
+
+}

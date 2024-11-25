@@ -1,0 +1,259 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+header{
+	width: 100vw;
+	height:auto;
+	background:purple;
+}
+
+
+.logo {
+	border: 2px solid black;
+	height: 12vh;
+	width: auto;
+	display: inline-block;
+	overflow: hidden;
+	font-size: 30px;
+	padding-top: 3vh;
+}
+
+.tt {
+	color: orange;
+}
+.tarc{
+	color: white;
+}
+
+nav{
+	border:2px solid black;
+	width: auto;
+	height: : auto;
+	font-size: 25px;
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 15vw;
+	padding-top:6px;
+	padding: 10PX;
+	margin-bottom: 2vh;
+}
+
+ul li{
+	display: inline-block;
+	margin-left: 3vw;
+	margin-bottom: 1vh;
+
+}
+
+
+
+li a{
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+	padding: 10PX;
+
+}
+
+.sign{
+	padding: 10px;
+	font-size: 25px;
+	/*border:2px solid black;*/
+	background: purple;
+	border-radius:95px;
+	width: 10vw;
+	height: 6vh;
+	margin-bottom: 5.5vh;
+	display: inline-block;
+	overflow: hidden;
+
+}
+.sign button{
+	margin-left: 3vw;
+	padding: 8px;
+	padding-bottom: 2px;
+}
+
+.search{
+	/*border:2px solid black;*/
+	width: 14vw;
+	height: : 10vh;
+	padding: 10px;
+	margin-bottom: 6vh;
+	background: purple;
+	border-radius: 95px;
+	display: inline-block;
+	overflow: hidden;
+}
+.search button{
+	display: inline-block;
+	overflow: hidden;
+	background: white;
+
+}
+
+.src{
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 6vw;
+}
+
+.container{
+	/*border: 2px;*/
+	height: 85vh;
+	width: 66vw;
+	background:white;
+	display: inline-block;
+	overflow: hidden;
+
+}
+
+.container input{
+
+	height: 8vh;
+	width: 20vw;
+	background: blue;
+}
+
+
+.container label{
+
+	margin-left: 20vw;
+}
+
+.add{
+	font-size: 40px;
+	color: blue;
+	margin-left:20vw;
+	margin-top: 1vh;
+}
+
+.ent{
+
+	font-size: 20px;
+	color: yellow;
+	margin-left: 20vw;
+}
+.bcontainer{
+
+	/*border: 2px;*/
+	height: 85vh;
+	width: 30vw;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.name {
+	/*border: 2px;*/
+	height: 8vh;
+	width: 30vw;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+
+.name input{
+	/*border: 2px;*/
+	color: green;
+	text-decoration: none;
+}
+
+.date {
+	/*border: 2px;*/
+	height: 8vh;
+	width: 30vw;
+	background: blue;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+.fname {
+	/*border: 2px;*/
+	height: 8vh;
+	width: 20vw;
+	background: blue;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+
+.gender{
+	/*border: 2px;*/
+	height: 8vh;
+	width: 20vw;
+	background: blue;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+
+.ccontainer{
+
+	/*border: 2px;*/
+	height: 85vh;
+	width: 30vw;
+	display: inline-block;
+	overflow: hidden;
+
+}
+
+
+.mobile {
+	/*border: 2px;*/
+	height: 8vh;
+	width: 20vw;
+	background: blue;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+
+.address {
+	/*border: 2px;*/
+	height: 8vh;
+	width: 20vw;
+	background: white;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+
+.district {
+	border: 2px;
+	height: 8vh;
+	width: 20vw;
+	background: blue;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+
+.state {
+	/*border: 2px;*/
+	height: 8vh;
+	width: 20vw;
+	background: blue;
+	margin-top: 4vh;
+	margin-left: 15vw;
+}
+
+.submit {
+	/*border: 2px;*/
+	height: 8vh;
+	width: 10vw;
+	color: blue;
+	border-radius: 98px;
+	background: blue;
+	margin-top: 5vh;
+}
+
+.submit button{
+	border: 2px;
+	height: 8vh;
+	width: 10vw;
+	color: white;
+	background: yellow;
+}
